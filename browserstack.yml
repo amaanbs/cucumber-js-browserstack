@@ -3,8 +3,8 @@
 # =============================
 # Add your BrowserStack userName and acccessKey here or set BROWSERSTACK_USERNAME and
 # BROWSERSTACK_ACCESS_KEY as env variables
-userName: YOUR_USERNAME
-accessKey: YOUR_ACCESS_KEY
+userName: amaanhakim_R5uEnc
+accessKey: f81yNoDpSjnqBUd72zMc
 # ======================
 # Organizing your tests
 # ======================
@@ -15,9 +15,9 @@ accessKey: YOUR_ACCESS_KEY
 # Ensure you add a dynamic identifier, like an incremental build number from your
 # CI/CD or timestamp at the end of every build; otherwise tests from different
 # executions will be grouped together on BrowserStack
-buildName: browserstack-build-1
+buildName: cucumber-build
 # Use `projectName` to set the name of your project. Example, Marketing Website
-projectName: BrowserStack Samples
+projectName: Cucumber samples
 # =======================================
 # Platforms (Browsers / Devices to test)
 # =======================================
